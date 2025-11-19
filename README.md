@@ -5,10 +5,13 @@ Document Repository for sharing all of our documents and designs etc. for the MA
 ## Assignment Requirements
 * COCOMO
 * Cost Benefit Analysis
+* Risk Management Plan
+* MoSCoW Analysis
 * GANTT Chart
-* Product Breakdown Structure
+* RACI Chart
 * Project Initiation Document
 * Prototypes (High Fidelty, Low Fidelity)
+* Product Breakdown Structure
 * Work Breakdown Structure
 
 ## Additional
