@@ -11,7 +11,7 @@ Document Repository for sharing all of our documents and designs etc. for the MA
 * RACI Matrix (found in [RACI-Matrix](./RACI-Matrix/) folder as '_RACI Matrix_')
 * Project Initiation Document (found in **Project Initiation Document** folder as '_PROJECT INITIATION DOCUMENT_')
 * Prototypes (High Fidelty, Low Fidelity) (found in [Prototypes](./Prototypes/) folder) Check out the [High-fidelity prototype](https://www.figma.com/design/xlVqU9gmltvz6KmAIvFSEm/SY-Bus-Journey-Planner---High-Fidelity-Prototypes?node-id=0-1&t=peUDqKxt6dsbHSS7-1)
-* Product Breakdown Structure (found in [Estimation](./Estimation/) foler as '_Product Breakdown.drawio.svg_')
+* Product Breakdown Structure (found in [Estimation](./Estimation/) folder as '_Product Breakdown.drawio.svg_')
 * Work Breakdown Structure (found in [Estimation](./Estimation/) folder as '_Work Breakdown Structure-updated.drawio.png_')
 
 ## Additional
