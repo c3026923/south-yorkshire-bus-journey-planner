@@ -15,5 +15,5 @@ Document Repository for sharing all of our documents and designs etc. for the MA
 * Work Breakdown Structure (found in [Estimation](./Estimation/) folder as '_Work Breakdown Structure-updated.drawio.png_')
 
 ## Additional
-* Logo for use in prototype
-* Use Case Diagram for showing client/general summary of system. Logos found [Here](./Logos/)
+* Logo for use in prototype. Logos found [Here](./Logos/)
+* Use Case Diagram for showing client/general summary of system.
